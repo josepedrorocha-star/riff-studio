@@ -10,7 +10,7 @@
   <a href="#apoiar">❤️ Apoiar · Support</a>
 </p>
 
-<p align="center">Versão / Version V69 · por / by <b>jprocha-pt</b></p>
+<p align="center">Versão / Version v1.0 · por / by <b>jprocha-pt</b></p>
 
 🇵🇹 A **Riff Studio** é uma app gratuita para escrever, praticar e tocar tablaturas de guitarra. Corre toda no navegador — não é preciso instalar nada.
 
